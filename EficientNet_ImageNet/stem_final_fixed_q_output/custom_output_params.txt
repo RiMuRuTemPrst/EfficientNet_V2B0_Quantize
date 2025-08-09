@@ -1,0 +1,2 @@
+scale: 0.03125
+zero_point: -119
